@@ -1,0 +1,11 @@
+<Alloy>
+    <Window>
+        <NavigationGroup id="nav" platform="ios">
+        <ActionBar platform="android">
+            <Window id="FIXME"  backgroundColor="white">
+			
+			</Window>
+		</ActionBar>
+        </NavigationGroup>
+    </Window>
+</Alloy>

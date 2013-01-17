@@ -1,0 +1,10 @@
+<Alloy>
+            <Window id="admin_login"  backgroundColor="white" fullscreen="true">
+            	<View id="home_header" >
+                	<Label id="headerlabel"/>
+                </View>
+                <Label id="adminloginlabel"/>
+                <Button id="adminbackbutton" title="Back" onClick="doClick">
+                
+            </Window>
+</Alloy>

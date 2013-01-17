@@ -1,0 +1,27 @@
+".container": {
+	backgroundColor:"white"
+},
+"#admin_login": {
+	navBarHidden : true,
+	layout: "vertical"
+},
+"#home_header": {
+	backgroundColor: "#000000",
+	top: 0,
+	left: 0,
+	width: "100%",
+	height: "10%"
+},
+"#headerlabel": {
+	margin: "auto",
+	text: "StyleTime",
+	color: "#fff",
+	font: { fontSize: "24dp" }
+},
+"#adminloginlabel": {
+	top: 200,
+	margin: "auto",
+	text: "Enter your credentials:",
+	color: "#000",
+	font: { fontSize: "30dp" }
+}

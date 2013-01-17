@@ -1,0 +1,15 @@
+<Alloy>
+            <Window id="index"  backgroundColor="white" fullscreen="true">
+            	<View id="home_header" >
+                	<Label id="headerlabel"/>
+                </View>
+                <Label id="findasalonlabel" text="temp" />
+                <Button id="locationsearchbutton" title="By City & State">
+                <View id="keywordsearchview">
+                	<TextField id="keywordtextField"  />
+                	<Button id="keywordsearchbutton" >
+                </View>	
+                <Button id="adminloginbutton" title="Admin Login" onClick="doClick">
+                <Label id="jsonlabel" >temp<Label/>
+            </Window>
+</Alloy>
